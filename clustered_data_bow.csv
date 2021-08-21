@@ -1,0 +1,448 @@
+,Title,Body,Cleaned Data,Cluster,cluster_id
+0,berlin-hotel-190599-review-2.json_8,"If you do end up here, be sure to specify a room at the back of the hotel.",end sure specify room back hotel,quality,1
+1,berlin-hotel-190599-review-3.json_2,and I was woken by the early morning firing up of the local bus service (a courtyard-facing room is essential unless you have industrial strength earplugs.)The rooms are small and ill-conceived.,wake early morning fire local bus service courtyard face room essential unless industrial strength earplug room small ill conceive,quality,1
+2,berlin-hotel-190599-review-4.json_16,"As a general tip, if you need to use the internet whilst in Berlin, look up the Easy Internet cafes before you go, there's a huge one in Kurfurstendam",general tip need use internet whilst berlin look easy internet cafe go huge one kurfurstendam,service,6
+3,berlin-hotel-190599-review-4.json_22,"If you expect no more than that, you won't be disappointed.",expect disappointed,service,6
+4,berlin-hotel-191437-review-1.json_2,"Room was big, bath was lovely, but watch out for the tile floor after you shower.",room big bath lovely watch tile floor shower,quality,1
+5,berlin-hotel-191437-review-1.json_5,Desk staff needs to go to a Waldorf class on manners.,desk staff need go waldorf class manner,service,6
+6,berlin-hotel-191437-review-1.json_9,Chair upholstery needs to be cleaned.,chair upholstery need clean,service,6
+7,berlin-hotel-191437-review-1.json_12,"Don't eat breakfast in the restaurant, too costly.",eat breakfast restaurant costly,service,6
+8,berlin-hotel-191437-review-1.json_13,"Walk 2 to 3 blocks away and get a muffin, coffee, or egg sandwich for about 6 Euros..",walk block away get muffin coffee egg sandwich euro,service,6
+9,berlin-hotel-191437-review-1.json_15,Look around the same area for another hotel.,look around area another hotel,staff,3
+10,berlin-hotel-191437-review-10.json_11,"With the highest breakfast prices we've ever seen, it would have been nice to have in-room beverage stations/coffee makers like one usually finds in Westins.",high breakfast price ever see would nice room beverage station coffee maker like one usually find westins,quality,1
+11,berlin-hotel-191437-review-12.json_6,"If you're looking for that famous Berlin nightlife, look elsewhere.",look famous berlin nightlife look elsewhere,service,6
+12,berlin-hotel-191437-review-15.json_9,Avoid these rooms - it is very clear why they do not have a photograph of them on their web site.,avoid room clear photograph web site,quality,1
+13,berlin-hotel-191437-review-15.json_14,Even with these benefits I would not recommend staying in this hotel.,even benefit would recommend stay hotel,value,4
+14,berlin-hotel-191437-review-16.json_1,Rooms needed upgrading badly (and our view was of the roof!) and a good clean!,room need upgrade badly view roof good clean,quality,1
+15,berlin-hotel-191437-review-19.json_12,"If you have the chance, go for the brand new Radisson, Hyatt, Marriott or Adlon.",chance go brand new radisson hyatt marriott adlon,service,6
+16,berlin-hotel-191437-review-2.json_19,"If you get a great rate per night, like I did using a voucher system, is OK, but otherwise stay elsewhere.",get great rate per night like use voucher system ok otherwise stay elsewhere,service,6
+17,berlin-hotel-191437-review-3.json_8,Dont go for the pictures on the starwood internet site.,go picture starwood internet site,service,6
+18,berlin-hotel-191437-review-4.json_10,My take on it is that the sewer system put in by the GDR needs to be replaced.,take sewer system put gdr need replace,service,6
+19,berlin-hotel-191437-review-4.json_11,"Bottom line: pick another hotel, the Starwood Group has a white elephant on their hands with this smelly grand hotel.",bottom line pick another hotel starwood group white elephant hand smelly grand hotel,staff,3
+20,berlin-hotel-191437-review-8.json_5,so I really highly recommend.,really highly recommend,staff,3
+21,berlin-hotel-191438-review-11.json_0,Hilton - stay on executive floor (great lounge) get a room overlooking the Gendarmenmarkt (beautiful day and night).,hilton stay executive floor great lounge get room overlook gendarmenmarkt beautiful day night,quality,1
+22,berlin-hotel-191438-review-12.json_13,"Anyone looking for something a little bit special should look elsewhere,",anyone look something little bit special look elsewhere,service,6
+23,berlin-hotel-191438-review-7.json_3,You may be well advised to try another address...,may advise try another address,service,6
+24,berlin-hotel-198701-review-2.json_10,"Another comfortable chair in the room, there's one, would be a plus We only ate one breakfast here because we slept in, but its a bit expensive.",another comfortable chair room one would plus eat one breakfast slept bit expensive,quality,1
+25,berlin-hotel-198701-review-4.json_2,but most bathrooms are in urgent need of remodelling (the existing ones are dating back to the 60s!).,bathroom urgent need remodelling exist one date back 60,service,6
+26,berlin-hotel-198701-review-4.json_8,it is better to avoid the bar.,well avoid bar,service,6
+27,berlin-hotel-198701-review-4.json_9,They do serve drinks upon request in the lobby and you better ask them to do so.,serve drink upon request lobby well ask,service,6
+28,berlin-hotel-198701-review-5.json_9,but a bit pricey 19euros since you can have a decent breakfest in any Kaffee in Berlin.,bit pricey 19 euro since decent breakfest kaffee berlin,service,6
+29,berlin-hotel-198701-review-5.json_10,I do recommand Kaffee Einstein.,recommand kaffee einstein,service,6
+30,berlin-hotel-198701-review-6.json_0,"If you're a non-smoker, don't stay here!",non smoker stay,service,6
+31,berlin-hotel-198701-review-6.json_8,The rooms need a re-do.,room need,quality,1
+32,berlin-hotel-199395-review-3.json_17,You must use these or risk breaking your leg.,must use risk break leg,service,6
+33,berlin-hotel-199395-review-3.json_21,YOu do have to shop around on the newt to get best deal.,shop around newt get best deal,service,6
+34,berlin-hotel-199395-review-3.json_35,Definitely avoid travelling by Easyjet at weekend late evenings!,definitely avoid travel easyjet weekend late evening,service,6
+35,berlin-hotel-199395-review-3.json_41,One more thing- if you want to visit the Bundestag it is a good idea to book a tour (in english) in advance.,one thing want visit bundestag good idea book tour english advance,service,6
+36,berlin-hotel-199395-review-4.json_0,Stayed here for a conference and would not advise it for people with other options.,stay conference would advise people option,value,4
+37,berlin-hotel-199395-review-4.json_6,"The location is okay for but for better restaurants and sight-seeing, stay closer to Postdamer Platz or Mitte.",location okay well restaurant sight see stay closer postdamer platz mitte,service,6
+38,berlin-hotel-199395-review-6.json_0,If you go to this hotel don`t book a standard room.,go hotel book standard room,quality,1
+39,berlin-hotel-199395-review-6.json_2,but the bathroom was tired and in need of refurbishment.,bathroom tire need refurbishment,service,6
+40,berlin-hotel-199395-review-6.json_7,I would not recommend this hotel.,would recommend hotel,staff,3
+41,berlin-hotel-199395-review-7.json_4,"Whilst the room was indeed large, clean and functional it lacked the finishing touches that one expects from 5-star accommodation.",whilst room indeed large clean functional lack finishing touch one expect star accommodation,quality,1
+42,berlin-hotel-199395-review-7.json_14,"The Restaurants in the hotel are okay, though if not eating in the hotel I would advise you to look further a field as the restaurants/caf�__�_��_s close by are not particularly good.",restaurant hotel okay though eating hotel would advise look field restaurant caf close particularly good,staff,3
+43,berlin-hotel-199395-review-7.json_20,"For those looking for things to do whilst in Berlin, I would highly recommend the walking tours offered by Original Berlin Walks (Discover Berlin) and Sandemans New Berlin (Red Berlin Tour and the Free Tour).",look thing whilst berlin would highly recommend walking tour offer original berlin walk discover berlin sandemans new berlin red berlin tour free tour,staff,3
+44,berlin-hotel-199397-review-1.json_12,"I would not recommend staying here,",would recommend stay,value,4
+45,berlin-hotel-199397-review-2.json_0,The room - on the executive floor - could have used a good dusting.,room executive floor could use good dusting,quality,1
+46,berlin-hotel-199397-review-3.json_21,Be sure to pick up an umbrella (for free) at the concierge if you anticipate rain while sightseeing.,sure pick umbrella free concierge anticipate rain sightseeing,service,6
+47,berlin-hotel-199420-review-1.json_14,you can go buy your own water and snacks.,go buy water snack,service,6
+48,berlin-hotel-199420-review-1.json_21,"you might want to bring ear plugs to protect you from your neighbor's late-night television, discussions, etc. I stayed there for business and then a few days being a tourist.",might want bring ear plug protect neighbor late night television discussion etc stayed business day tourist,service,6
+49,berlin-hotel-199420-review-1.json_22,"The only warning I have to offer is if you want to sleep past 8 AM, make sure you hang the do not disturb sign on your door.",warn offer want sleep past make sure hang disturb sign door,service,6
+50,berlin-hotel-199430-review-1.json_26,This makes me not want to recommend this hotel.,make want recommend hotel,staff,3
+51,berlin-hotel-199430-review-11.json_4,I would strongly reccomend this hotel and would have no hesitation in staying there again.,would strongly reccomend hotel would hesitation stay,value,4
+52,berlin-hotel-199430-review-13.json_8,but eventually need renovating.,eventually need renovate,service,6
+53,berlin-hotel-199430-review-2.json_0,Please read this before before booking your break away in this hotel.,please read book break away hotel,staff,3
+54,berlin-hotel-199430-review-2.json_41,"So, if you are not looking for service, unfriendly staff, basic facilities then I recommend you book this place!",look service unfriendly staff basic facility recommend book place,staff,3
+55,berlin-hotel-199430-review-2.json_42,"Please do not be fooled by the pictures on the internet - If you book this hotel, please expect an 'Allocation on Arrival' service as you will have no idea where you will be placed.",please fool picture internet book hotel please expect allocation arrival service idea place,staff,3
+56,berlin-hotel-199430-review-5.json_1,The hotel is very tired and is in desperate need of a refurb.,hotel tire desperate need refurb,staff,3
+57,berlin-hotel-199430-review-5.json_4,"When we booked the room the description on the website said it came with a separate seating area, despite raising the issue with reception we were basically told this was not so , I guess someone needs to amend the website.",booked room description website say come separate seating area despite raise issue reception basically tell guess someone need amend website,quality,1
+58,berlin-hotel-199430-review-6.json_12,Berlin is a top city and highly recommended for New Year!,berlin top city highly recommend new year,staff,3
+59,berlin-hotel-199430-review-6.json_13,Try out a trabi safari - it is great fun - especially in 3ft of snow in a car with no heating......................,try trabi safari great fun especially 3 ft snow car heating,service,6
+60,berlin-hotel-199430-review-7.json_12,but the whole place is in serious need of a refurbishment.,whole place serious need refurbishment,service,6
+61,berlin-hotel-199430-review-7.json_17,Beware of smoking areas for people having breakfast that are very close to non-smoking.,beware smoke area people breakfast close non smoke,service,6
+62,berlin-hotel-199430-review-8.json_20,If you do not expect any kind of service whatsoever then go ahead and book these hotels but be sure what you are getting as they also have a third old building across the street which is a little more convenient than having to drag luggage three long blocks,expect kind service whatsoever go ahead book hotel sure get also third old building across street little convenient drag luggage three long block,staff,3
+63,berlin-hotel-200437-review-1.json_10,if you're looking for a high end hotel i suggest you go somewhere else.,look high end hotel suggest go somewhere else,staff,3
+64,berlin-hotel-200437-review-3.json_6,Especially good for shopping on the Kurfustendamm...bring an extra bag!!,especially good shopping kurfustendamm bring extra bag,service,6
+65,berlin-hotel-200437-review-4.json_15,I would not recommend the restaurant either the food in not good quality,would recommend restaurant either food good quality,staff,3
+66,berlin-hotel-200437-review-7.json_12,This hotel is badly in need of a manager who knows what is going on in the place.,hotel badly need manager know go place,staff,3
+67,berlin-hotel-202450-review-1.json_23,"Negatives: Bed (if you are used to Sofitel beds from around there world don't stay here), bedding (old polyester), house keeping (on both morning the room was not properly cleaned and coffee and toiletry supplies were not replenished; the room was also not very clean with huge stains on the curtains), in room equipment (if you love 70s retro you will love the TV in the room).",negative bed used sofitel bed around world stay bed old polyester house keep morning room properly clean coffee toiletry supply replenish room also clean huge stain curtain room equipment love 70 retro love tv room,quality,1
+68,berlin-hotel-202450-review-1.json_24,"This hotel should not be allowed to call itself a Sofitel as the rooms are well below standard, the staff however are right up there.",hotel allow call sofitel room standard staff however right,quality,1
+69,berlin-hotel-202450-review-2.json_7,you really want a room at the back of the hotel rather than at the front.,really want room back hotel rather front,quality,1
+70,berlin-hotel-202459-review-10.json_3,I do wish that the staff were more accomodating.,wish staff accomodating,service,6
+71,berlin-hotel-202459-review-3.json_15,If you prefer an outside room ask for one on an upper floor facing towards Berlin Catherdral only some 100 yards away.,prefer outside room ask one upper floor facing towards berlin catherdral 100 yard away,quality,1
+72,berlin-hotel-202459-review-7.json_10,and they should send the staff on a training course in customer relations.,send staff training course customer relation,service,6
+73,berlin-hotel-202654-review-1.json_7,Try and find a web deal (I booked via Hotel[-]): during Summer rooms can be booked for as low as 59 euro (and that includes breakfast).,try find web deal book via hotel summer room book low 59 euro include breakfast,quality,1
+74,berlin-hotel-228377-review-6.json_5,I would advise getting an inclusive deal or eating at one of the many local cafes which offered breakfast for a third of the price.,would advise get inclusive deal eat one many local cafe offer breakfast third price,service,6
+75,berlin-hotel-228377-review-7.json_13,I most warn everybody to avoid this hotel.,warn everybody avoid hotel,staff,3
+76,berlin-hotel-228395-review-1.json_5,I really advice the hotel,really advice hotel,staff,3
+77,berlin-hotel-228395-review-2.json_9,but some of the staff behind reception need a few lessons in customer service (ie.,staff behind reception need lesson customer service ie,service,6
+78,berlin-hotel-228395-review-2.json_10,a smile or even some acknowledgment when handing in keys wouldn't go amiss).,smile even acknowledgment hand key would go amiss,service,6
+79,berlin-hotel-228395-review-2.json_38,but for those on a budget and do not mind relinquishing some comforts then this hotel is fine.,budget mind relinquish comfort hotel fine,staff,3
+80,berlin-hotel-228395-review-3.json_28,I would NOT recommend this hotel to anyone I liked.,would recommend hotel anyone like,staff,3
+81,berlin-hotel-228395-review-3.json_35,If you are STILL temped to stay at this place: TAKE VERY GOOD EAR PLUGS.,still temped stay place take good ear plug,service,6
+82,berlin-hotel-228395-review-3.json_39,DON'T EXPECT ANYTHING AND YOU WON'T BE DISAPPOINTED!!!!,expect anything disappointed,service,6
+83,berlin-hotel-228395-review-6.json_32,and in my oppinion a hostel would be better than wasting your money on a somewhat dodgy three stars.,oppinion hostel would better waste money somewhat dodgy three star,service,6
+84,berlin-hotel-252106-review-10.json_6,"If you are a espresso lover, well this is for you.",espresso lover,service,6
+85,berlin-hotel-279742-review-6.json_13,But given the price I would recommend this one unreservedly.,give price would recommend one unreservedly,staff,3
+86,berlin-hotel-502108-review-2.json_9,The hotel should give a password out to guests that check-in or at least program a time-out to avoid this frustrating situation.,hotel give password guest check least program time avoid frustrating situation,staff,3
+87,berlin-hotel-559593-review-3.json_10,"for the standard they boast, you are better off staying in a lesser star establishment where you will get better service.",standard boast well stay less star establishment get good service,service,6
+88,berlin-hotel-589462-review-2.json_7,"at bar called vang gogh the owner play piano.....try the dada falafel at oranien str, and cafe einstein.",bar call vang gogh owner play piano try dada falafel oranien str cafe einstein,service,6
+89,seattle-hotel-100505-review-10.json_1,Just hope that you get there to get a room ahead of someone else!,hope get get room ahead someone else,quality,1
+90,seattle-hotel-100505-review-10.json_24,Beware: some rooms are very small and outdated,beware room small outdated,quality,1
+91,seattle-hotel-100505-review-10.json_29,My recommendation: Save your money!,recommendation save money,service,6
+92,seattle-hotel-100505-review-10.json_30,There are several better hotels nearby who appreciate your business and will work with you.,several good hotel nearby appreciate business work,staff,3
+93,seattle-hotel-100505-review-10.json_32,Take my advise: spend your well earned money at King's Motel (1/2 block away) or at the Sheraton or Weston.,take advise spend earn money king motel block away sheraton weston,service,6
+94,seattle-hotel-100505-review-12.json_8,"If you book a room, ask for a space needle view--I stayed on the 6th floor in a corner room and had a nice view.",book room ask space needle view stay 6 th floor corner room nice view,quality,1
+95,seattle-hotel-100505-review-12.json_11,"If you don't mind walking, you are only a couple blocks from Westlake shopping center and a few blocks from Pike's Marketplace.",mind walk couple block westlake shopping center block pike marketplace,service,6
+96,seattle-hotel-100505-review-12.json_16,I felt relaxed and comfortable there--I recommend it.,felt relaxed comfortable recommend,staff,3
+97,seattle-hotel-100505-review-13.json_2,"and we had a balcony and a great view of the Space Needle (I'd recommend asking for a space needle view, if you book).",balcony great view space needle recommend ask space needle view book,staff,3
+98,seattle-hotel-100505-review-14.json_8,though you need to check the sheets before crawling into bed.,though need check sheet crawl bed,service,6
+99,seattle-hotel-100505-review-14.json_24,"If you're going to Seattle, look hard at spending a little extra for another hotel - and you'll probably even end up right in the center of downtown.",go seattle look hard spending little extra another hotel probably even end right center downtown,room,5
+100,seattle-hotel-100505-review-15.json_12,The point is - don't advertise the service if there are caveats that go with it.,point advertise service caveat go,service,6
+101,seattle-hotel-100505-review-18.json_7,Parking at $30 per day is an outrage but possibly standard for downtown (you can find street parking on the weekend to save a few dollars).,park 30 per day outrage possibly standard downtown find street park weekend save dollar,room,5
+102,seattle-hotel-100505-review-19.json_8,"Overall, I would not recommend this hotel.",overall would recommend hotel,staff,3
+103,seattle-hotel-100505-review-2.json_11,although the marble in the bathrooms could have used a thorough cleaning as they had dirt and rust stains.,although marble bathroom could use thorough cleaning dirt rust stain,service,6
+104,seattle-hotel-100505-review-2.json_13,This hotel is good if you are just looking to catch some sleep,hotel good look catch sleep,staff,3
+105,seattle-hotel-100505-review-2.json_15,If you want to soak in the hot-tub or swim in the pool at the end of a long day look for other accommodations.,want soak hot tub swim pool end long day look accommodation,service,6
+106,seattle-hotel-100505-review-21.json_7,"As other reviewers have mentioned, however, street noise is a factor to be considered.",reviewer mention however street noise factor consider,service,6
+107,seattle-hotel-100505-review-21.json_11,"Most importantly, if you are planning to use the wi-fi internet access, BEWARE.",importantly plan use wi fi internet access beware,service,6
+108,seattle-hotel-100505-review-21.json_15,"Bottom line, if internet access is a factor, stay elsewhere.",bottom line internet access factor stay elsewhere,service,6
+109,seattle-hotel-100505-review-24.json_18,This is not a hotel I can recommend for any type of group.,hotel recommend type group,staff,3
+110,seattle-hotel-100505-review-26.json_8,"If this is your preference, be advised that the balconies are barely wide enough to fit a human.",preference advise balcony barely wide enough fit human,service,6
+111,seattle-hotel-100505-review-26.json_11,"Smokers beware: the hotel only has a few smoking rooms, all located on the second floor.",smoker beware hotel smoking room locate second floor,quality,1
+112,seattle-hotel-100505-review-26.json_46,"However, if you avoid the second floor rooms and don't mind a little construction noise,",however avoid second floor room mind little construction noise,quality,1
+113,seattle-hotel-100505-review-29.json_8,Go somewhere with better service.,go somewhere well service,service,6
+114,seattle-hotel-100505-review-3.json_23,"It wasn't just us, so beware, if you book at the Warwick, you will eventually get a beautiful room hopefully, but may need to deal with some not-so-nice staff to get it.",us beware book warwick eventually get beautiful room hopefully may need deal nice staff get,quality,1
+115,seattle-hotel-100505-review-30.json_3,but we could never figure out how that worked (do some research before you go!!).,could never figure work research go,service,6
+116,seattle-hotel-100505-review-30.json_20,but for a really great breakfast walk a block to the Mayflower Park Hotel (pricey but fabulous).,really great breakfast walk block mayflower park hotel pricey fabulous,room,5
+117,seattle-hotel-100505-review-4.json_8,"I would recommend the Warwick to someone looking for a reasonable priced hotel,",would recommend warwick someone look reasonable price hotel,staff,3
+118,seattle-hotel-100505-review-4.json_9,but don't expect too much.,expect much,service,6
+119,seattle-hotel-100505-review-5.json_17,"Beware, if you use the Grayline for transportation, allow plenty of time, as they ran up to an hour late.",beware use grayline transportation allow plenty time run hour late,service,6
+120,seattle-hotel-100505-review-7.json_7,"However, there is a good advantage to this hotel if you have a car.",however good advantage hotel car,staff,3
+121,seattle-hotel-100505-review-7.json_8,You can park your car yourself and save money doing without valet service.,park car save money without valet service,room,5
+122,seattle-hotel-100505-review-8.json_4,Parking was expensive and there was no elevator in the parkade so if you have any mobility problems you need to use the valet parking.,park expensive elevator parkade mobility problem need use valet parking,room,5
+123,seattle-hotel-100544-review-1.json_9,Suggestions: Woodland Park Zoo (fantastic and worth the 10 minute bus drive out of downtown); Anthony's Pier 66 (excellent seafood restaurant on the waterfront) Enjoy your stay at the Moore!,suggestion woodland park zoo fantastic worth 10 minute bus drive downtown anthony pier 66 excellent seafood restaurant waterfront enjoy stay moore,room,5
+124,seattle-hotel-100544-review-10.json_8,Rooms do not appear to have any functioning heating or built in fan/cooler/heaters which is a bit of a drawback depending on when you visit.,room appear function heating build fan cooler heater bite drawback depend visit,quality,1
+125,seattle-hotel-100544-review-10.json_13,Travellers considering staying at the mediocre Hostelling International Seattle should seriously consider staying at the Moore instead.,traveller consider stay mediocre hostelling international seattle seriously consider stay moore instead,value,4
+126,seattle-hotel-100544-review-10.json_15,and the price virtually the same if you were considering a private room at HI.,price virtually consider private room hi,quality,1
+127,seattle-hotel-100544-review-13.json_16,Request a 6th or 7th floor room facing the water and you'll enjoy a view that most visitors pay through the nose for.,request 6 th 7 th floor room face water enjoy view visitor pay nose,quality,1
+128,seattle-hotel-100544-review-13.json_17,"Walk to Pike Place in the morning, shopping at Pioneer Square in the afternoon, visit nearby Belltown at night.",walk pike place morning shopping pioneer square afternoon visit nearby belltown night,service,6
+129,seattle-hotel-100544-review-13.json_18,Walk everywhere.,walk everywhere,service,6
+130,seattle-hotel-100544-review-13.json_19,They'll hold your luggage for you either before your check-in time or after you've checked out but have a few hours to kill before catching your flight.,hold luggage either check time check hour kill catch flight,service,6
+131,seattle-hotel-100544-review-13.json_20,"Visiting the convention center - it's less than 10 minutes walk, grab coffee at the French Bakery at Pike's Place before you head into convention hell.",visit convention center less 10 minute walk grab coffee french bakery pike place head convention hell,service,6
+132,seattle-hotel-100544-review-13.json_22,there are two lots on either side of the hotel or try the Bon/Macy's parking lot for something a bit cheaper.,two lot either side hotel try bon macy park lot something bit cheap,room,5
+133,seattle-hotel-100544-review-14.json_19,Give this place a go - just catch up on sleepbefore you do.,give place go catch sleepbefore,service,6
+134,seattle-hotel-100544-review-17.json_9,so you don't have to walk if you don't want to.,walk want,service,6
+135,seattle-hotel-100544-review-18.json_13,5h on  a platform to look down  Really: NOT TO DO - the bar in the Moore: rough.,5 h platform look really bar moore rough,service,6
+136,seattle-hotel-100544-review-21.json_15,"My suggestion to anyone considering the Moore: If you want the low price, stay outside of DT since you will have to pay for parking anyways, or break the bank and stay at a nicer place!",suggestion anyone consider moore want low price stay outside dt since pay parking anyways break bank stay nice place,value,4
+137,seattle-hotel-100544-review-24.json_3,and I've got to say that it was in desperate need of an update (and I'm not picky).,got say desperate need update picky,service,6
+138,seattle-hotel-100544-review-4.json_0,Make no mistake - the Moore is pretty much a dump.,make mistake moore pretty much dump,service,6
+139,seattle-hotel-100562-review-10.json_0,Be careful of the room type if you are more than one person.,careful room type one person,quality,1
+140,seattle-hotel-100562-review-14.json_3,You can catch the monorail a block from the hotel if you want to visit the Seattle Center.,catch monorail block hotel want visit seattle center,room,5
+141,seattle-hotel-100562-review-14.json_9,Just make sure you stay in the remodeled section.,make sure stay remodel section,service,6
+142,seattle-hotel-100562-review-20.json_15,I'd suggest staying away from the in hotel restaurant.,would suggest stay away hotel restaurant,value,4
+143,seattle-hotel-100562-review-20.json_19,"My suggestion would be to have a donut and coffee for breakfast, you're in Seattle after all!",suggestion would donut coffee breakfast seattle,room,5
+144,seattle-hotel-100562-review-21.json_0,"Park across the street, $6 for 24hrs on weekends, $35+ at the hotel.",park across street 24 hr weekend 35 hotel,room,5
+145,seattle-hotel-100562-review-23.json_15,"What respectable hotel, especially one with such expensive rooms, would have the gall to also charge lodging for their guests' cars?",respectable hotel especially one expensive room would gall also charge lodge guest car,quality,1
+146,seattle-hotel-100562-review-23.json_16,"For what we paid for those rooms, they should have been courteous enough not to ream us on parking.",pay room courteous enough ream us park,room,5
+147,seattle-hotel-100562-review-26.json_22,One small note -- there is a great Vietnamese restaurant around the corner called Bambuza -- don't miss it!,one small note great vietnamese restaurant around corner call bambuza miss,service,6
+148,seattle-hotel-100562-review-29.json_0,Be careful with this hotel.,careful hotel,staff,3
+149,seattle-hotel-100562-review-29.json_17,"Whatever you do, don't stay at this hotel.",whatever stay hotel,staff,3
+150,seattle-hotel-100562-review-29.json_20,Avoid this hotel!,avoid hotel,staff,3
+151,seattle-hotel-100562-review-30.json_15,"So, we would recommend this property if you are happy with 3-star hotels or lower.",would recommend property happy star hotel low,staff,3
+152,seattle-hotel-100562-review-35.json_0,Absolutely don't stay at this hotel if you're driving.,absolutely stay hotel driving,staff,3
+153,seattle-hotel-100562-review-40.json_15,"Food in over cooked, at least the water in cafe was drinkable, and don't be fooled by there complimentary newspaper, if you read the sticker the put on it you will see that you will be charged for it to $$$$.",food cook least water cafe drinkable fool complimentary newspaper read sticker put see charge,service,6
+154,seattle-hotel-100562-review-43.json_7,and if you wanted to take a long stroll you could even walk to the tower.,wanted take long stroll could even walk tower,service,6
+155,seattle-hotel-100562-review-47.json_9,Avoid the double decker Gray Line tour.,avoid double decker gray line tour,service,6
+156,seattle-hotel-100562-review-7.json_7,I would definitely recommend this hotel.,would definitely recommend hotel,staff,3
+157,seattle-hotel-100562-review-8.json_25,If you are flying in I would suggest not renting a car as down Seattle can get crazy  parking is expensive.,fly would suggest rent car seattle get crazy parking expensive,room,5
+158,seattle-hotel-100562-review-9.json_5,Treadmills were in very bad need of repair.,treadmill bad need repair,service,6
+159,seattle-hotel-100565-review-11.json_11,Would definitely recommend the hotel: we stayed a couple of nights at the W Seattle,would definitely recommend hotel stayed couple night seattle,staff,3
+160,seattle-hotel-100565-review-11.json_14,One thing: definitely try to get a high floored room away from the building works for the new skyscraper next floor.,one thing definitely try get high floor room away build work new skyscraper next floor,quality,1
+161,seattle-hotel-100565-review-14.json_8,"For those who are taking a cruise out of Seattle , like us, plan an extra day or two prior to your leaving and stay at the Andra (about 3 minutes form the debarkation dock) to compliment your trip.",take cruise seattle like us plan extra day two prior leave stay andra minute form debarkation dock compliment trip,room,5
+162,277882:54,Highly recommend it.,highly recommend,staff,3
+163,223041:120,We had a very pleasant stay and I would highly recommend anyone to stay there.,pleasant stay would highly recommend anyone stay,value,4
+164,289202:55,"We will definately be returning, and recommending it to anyone we know is intending to visit Venice.",definately return recommend anyone know intend visit venice,staff,3
+165,289202:55,"Almost forgot, it is even easier to find it when you arrive at Piazza Roma than the website says, and takes less than 10 minutes to walk even with a case.",almost forget even easy find arrive piazza rom website say take less 10 minute walk even case,service,6
+166,192044:88,Ate dinner at Georgetown - highly recommended,ate dinner georgetown highly recommend,staff,3
+167,1126079:52,"If you dont mind a 20 minute train ride to get into the city, this is the place to stay in Amsterdam.",mind 20 minute train ride get city place stay amsterdam,service,6
+168,1126079:52,"Meaning, dont expect your family of four to be comfortable in one room.",mean expect family four comfortable one room,quality,1
+169,301619:7,"Top tip for frequent visitors is the Okura Club International which you can join for nothing and entitles bearers to free usage of the pool, showers and o-furo ,bath, which you would normally have to pay for.",top tip frequent visitor okura club international join nothing entitle bearer free usage pool shower furo bath would normally pay,service,6
+170,301619:7,"If youre heading to Tokyo, whether its business or pleasure, I definitely recommend the Okura. 70s kitsch, crap Scottish bar - its all good.",head tokyo whether business pleasure definitely recommend okura 70 kitsch crap scottish bar good,staff,3
+171,81363:58,"None of them appeared to be a concierge per se and noone offered to make us dinner reservations when asked about restaurants, so expect to take care of these details on your own.",none appear concierge per se noone offer make us dinner reservation ask restaurant expect take care detail,service,6
+172,81363:58,If you prefer large corporate-style hotels this may not be the place for you.,prefer large corporate style hotel may place,staff,3
+173,100560:20,"I would stay here again on points of for business, but if it was my own money I might look around before booking it.",would stay point business money might look around book,value,4
+174,185401:29,"We recommend visiting the excavation of the Aztec pyramids next to the national cathedral, about a five minute walk from the hotel.",recommend visit excavation aztec pyramid next national cathedral five minute walk hotel,staff,3
+175,185401:29,"The driver can take you from place to place, for a reasonable price.",driver take place place reasonable price,service,6
+176,185401:29,This is much safer and far more convenient than hailing taxis from the street.,much safe far convenient hail taxis street,service,6
+177,305813:192,You can also use the MTR which is 4 mins from the hotel.,also use mtr minute hotel,staff,3
+178,305813:192,"You can also use the star ferry, pennies, on the Kowloon side which will drop you island side adjacent to harbour city mall which is a good spot to take the classic harbour panoramic photo.",also use star ferry penny kowloon side drop island side adjacent harbour city mall good spot take classic harbour panoramic photo,service,6
+179,224168:112,"It is in a great location for the Hollywood area, it is right next to a subway stop, but to get around in Los Angeles you will need a car.",great location hollywood area right next subway stop get around los angeles need car,service,6
+180,224168:112,"So, be sure to tell them in advance if noise bothers you.",sure tell advance noise bother,service,6
+181,254575:468,"I can recommend a Turkish restaurant in Wilton Road called Mezze ,but book in advance if you want to have dinner there as its quite busy,.",recommend turkish restaurant wilton road call mezze book advance want dinner quite busy,staff,3
+182,89619:42,"So if you are checking in and they allocate room 1238, make sure you have your own mirror.",check allocate room 1238 make sure mirror,quality,1
+183,100581:9,The University Inn is a very good deal that I would recommend to our friends.,university inn good deal would recommend friend,staff,3
+184,100581:9,Watch out where you park in Seattle.,watch park seattle,room,5
+185,228573:12,Stay elsewhere if at all possible.,stay elsewhere possible,service,6
+186,87104:173,"Easy walk to the beach and the aquarium ,highly recommend.",easy walk beach aquarium highly recommend,staff,3
+187,290014:112,Bus #1 from the train station is most direct but #25 and #33 will get you there also.,bus train station direct 25 33 get also,service,6
+188,119658:112,I would recommend the place to anyone on a budget as you get a clean room for the money but I dont think Id stay here again.,would recommend place anyone budget get clean room money think would stay,value,4
+189,542696:0,Be careful snorkeling at Red Beach.,careful snorkel red beach,service,6
+190,542696:0,I would not suggest doing this without fins unless you are VERY strong swimmer and even take caution with fins if you are a strong swimmer.,would suggest without fin unless strong swimmer even take caution fin strong swimmer,service,6
+191,542696:0,"Note that if you plan to rent a car, many rental places have minimum 3 day rentals during high season.",note plan rent car many rental place minimum day rental high season,service,6
+192,542696:0,If you get there in the morning you can easily have 300 yds of sand to yourself.,get morning easily 300 yds sand,service,6
+193,188975:80,"And, if you are not wealthy, you should visit the cafe anyway.",wealthy visit cafe anyway,service,6
+194,249487:92,You can find specials and packages on their website..,find special package website,service,6
+195,85147:151,"Yay After 2 hours of dealing with the floor manager, Matthew Sims,If you ever have to deal with this man, go above him.",yay hour deal floor manager matthew sims ever deal man go,service,6
+196,282300:82,"The roof top pool, ok is on the small side but the beach is only 5 minutes walk away if you need more water",roof top pool ok small side beach minute walk away need water,service,6
+197,282300:82,If I was to give one tip then take a taxi from the airport - we got the train and then the metro but had to make few changes along the way.,give one tip take taxi airport get train metro make change along way,service,6
+198,230112:52,"Also, a warning, be careful of what you sign up for as wireless internet.",also warn careful sign wireless internet,service,6
+199,230112:52,"Remember to buy water from the supermarket near Madame Tussauds, much cheaper than anywhere else.",remember buy water supermarket near madame tussauds much cheap anywhere else,service,6
+200,281838:8,"However if you are travelling with a laptop they provide free internet in the rooms ,decent speed ~2mbps, ask at reception for pass code.",however travel laptop provide free internet room decent speed 2 mbps ask reception pas code,food,7
+201,112328:43,I would highly reccommend a hotel called The Phoenix over this place.,would highly reccommend hotel call phoenix place,staff,3
+202,301657:245,Be sure to get the larger room and have breakfast included as it is $25 if you pay.,sure get large room breakfast include 25 pay,quality,1
+203,301657:245,"If you want to feel the city vibes and eat close by at more authentic restaurants, dont stay here.",want feel city vibes eat close authentic restaurant stay,service,6
+204,301657:245,"If you want out of the hustle more modern surroundings, this is your place.",want hustle modern surroundings place,service,6
+205,277997:226,"Its a good 20 minute drive to the center of Scottsdale ,if youre looking to dine at one of the many fine dining spots in the Scottsdale area.",good 20 minute drive center scottsdale look dine one many fine din spots scottsdale area,service,6
+206,150841:372,Choose to go to the specialty resturants on other nights.,choose go specialty resturants night,service,6
+207,217386:77,"So, if you ever have a bad experience at this hotel and they promise you something, you better get it in writing because Joanna Turmo will not come to the phone.",ever bad experience hotel promise something well get write joanna turmo come phone,staff,3
+208,259337:283,"I would recommend this place, but arm yourself with good information from people who have stayed there before.",would recommend place arm good information people stay,value,4
+209,259337:283,"On your way in, grab one of the oodles of people checking out and get their advice.",way grab one oodles people check get advice,service,6
+210,259337:283,I think the pitfalls I discuss below could be avoided if you know what youre up against from the outset.,think pitfall discus could avoid know outset,service,6
+211,259337:283,"No snorkeling right on the hotels beach ,too many waves and no reef,, so you have to book a separate excursion.",snorkel right hotel beach many wave reef book separate excursion,staff,3
+212,259337:283,"Tip: if you want a beach chair at the beach or pool, go there before 9am or so and put your magazine or towel on your chair.",tip want beach chair beach pool go 9 put magazine towel chair,location,2
+213,85005:14,"The breakfast consisted of doughnuts and muffins, if you were quick enough.",breakfast consist doughnut muffin quick enough,service,6
+214,85005:14,If you have a choice DONT STAY HERE.,choice stay,service,6
+215,249328:70,Reception has safe deposit box if you need it.,reception safe deposit box need,service,6
+216,249328:70,Be careful not to wander into attic late at night though as carpet is very damp.,careful wander attic late night though carpet damp,service,6
+217,498233:81,All very good - only dont expect to be waited on .,good expect wait,service,6
+218,498233:81,Cleanliness is not a priority in this area - so go with that in mind.,cleanliness priority area go mind,service,6
+219,498233:81,New Orleans is a must for every American.,new orleans must every american,service,6
+220,150841:55,Make your reservations as soon as you get there.,make reservation soon get,service,6
+221,150841:55,Make sure you bring plenty of sun tan lotion-very expensive in the gift shop.,make sure bring plenty sun tan lotion expensive gift shop,service,6
+222,150841:55,"Also bring comfy shoes, ALOT of walking, take advantage of the golf carts to bring you to the other hotels at night.",also bring comfy shoe alot walk take advantage golf cart bring hotel night,staff,3
+223,150841:55,They will also drop you right off at your room if you ask.,also drop right room ask,quality,1
+224,150841:55,If you are traveling with younger kids you might want your rooms closer to the Dominica for the pool and beach activities.,travel young kid might want room close dominica pool beach activity,quality,1
+225,150841:55,"Dont go crazy worrying about fancy evening wear, pack as little as possible and bring a clip for the hair.",go crazy worry fancy even wear pack little possible bring clip hair,service,6
+226,94326:211,Some suggestions for those going for a long weekend trip .... Book the Beantown Trolley Tour.,suggestion go long weekend trip book beantown trolley tour,service,6
+227,94326:211,"Buy your tickets at the Wharf, not the concierge - they only have 1-day passes.",buy ticket wharf concierge day pass,service,6
+228,94326:211,"If you go to Salem, take the Trolley Tour.",go salem take trolley tour,service,6
+229,94326:211,"If you are looking for a few nice dinner restaurants, we loved Legal Seafood , at the Wharf, and Plaza III Kansas City Steakhouse , at Fanueil Hall/South Market,.",look nice dinner restaurant love legal seafood wharf plaza ii kansa city steakhouse fanueil hall south market,service,6
+230,94326:211,"Also, if you are going during baseball season, you will have to buy a Red Sox hat, T-shirt, etc.",also go baseball season buy red sox hat shirt etc,service,6
+231,94326:211,"Go to a game, too.",go game,service,6
+232,224948:355,"However, as I stated earlier, there are ample restaurants nearby from which you can choose.",however state early ample restaurant nearby choose,service,6
+233,224953:25,The location is perfect and I highly recommend the spa at the attached LA sports Club.,location perfect highly recommend spa attach laugh lot sport club,staff,3
+234,259330:682,I have to comment to anyone who is thinking of going to a Caribbean Resort...YOUR VACATION IS AS GOOD OR BAD AS YOUR EXPECTATION.,comment anyone think go caribbean resort vacation good bad expectation,service,6
+235,259330:682,If you think you are going to a American/Canadian 4-5 star resort you would be fooling yourself.,think go american canadian star resort would fool,service,6
+236,259330:682,"If you want Wolfgang Puck, you should stay home to get it.",want wolfgang puck stay home get,service,6
+237,259330:682,"But if you open your mind and realize you are experiencing how others live, you will love it.",open mind realize experience others live love,service,6
+238,542696:23,If you must stay here check out the room first before you hand over your credit card.,must stay check room first hand credit card,quality,1
+239,231519:74,"The rooms are very clean and are the perfect base while exploring the city, ask for a room at the front of the hotel as you get your own personal little balcony.",room clean perfect base explore city ask room front hotel get personal little balcony,quality,1
+240,231519:74,The rooftop terrace offers a nice view of the city at sunset while enjoying a few evening drinks even in february I would definitely recommend this hotel and will have no hesitation in staying here again,rooftop terrace offer nice view city sunset enjoy even drink even february would definitely recommend hotel hesitation stay,value,4
+241,209424:78,"The room was fine, but be forewarned, the neighboring Hilton is building a high-rise time share building right next to the Ilikai , Diamond Head side.",room fine forewarn neighboring hilton building high rise time share build right next ilikai diamond head side,quality,1
+242,209424:78,I hope they update their website to advise of this.,hope update website advise,service,6
+243,209424:78,"If you receive this, please note: It is NOT APPLICABLE to Sarentos , roof-top-expensive-incredible views, Restaurant.",receive please note applicable sarentos roof top expensive incredible view restaurant,service,6
+244,254575:157,So if you have trouble with stairs request a lower floor.,trouble stair request low floor,service,6
+245,194308:45,"Dont expect a room with a view, and the hotel is on a fairly busy street, but they do have live jazz nightly.",expect room view hotel fairly busy street live jazz nightly,quality,1
+246,194308:45,"If youre looking for a great place to stay on the happening Left Bank, this should be your choice - you wont regret it.",look great place stay happen leave bank choice regret,service,6
+247,148807:71,"If you are not a diver, I would recommend you stay at the Copamarina because it is very nice and peaceful.",diver would recommend stay copamarina nice peaceful,value,4
+248,148807:71,"I guess the bottom line is that if you are a diver and plan to dive, I would not stay there.",guess bottom line diver plan dive would stay,value,4
+249,148807:71,"However, if you are simply wanting a nice vacation in relaxing area then the Copamarina is a good choice.",however simply want nice vacation relax area copamarina good choice,service,6
+250,237153:34,dont trust the staff here,trust staff,service,6
+251,237153:34,"So dont trust the staff, and be prepared for them to try it on and cause problems.",trust staff prepare try problem,service,6
+252,73787:20,The hotel is very dated and in need of a LOT of work.,hotel date need lot work,staff,3
+253,73787:20,"The front desk staff could use a really good lesson on manners, professionalism, and genuine hospitality.",front desk staff could use really good lesson manner professionalism genuine hospitality,service,6
+254,73787:20,They could use a little polishing up and professional conversational skills.,could use little polish professional conversational skill,service,6
+255,73787:20,The pool area is nice but the pool itself could use a good scrub down.,pool area nice pool could use good scrub,service,6
+256,73787:20,"Could be a real gem since it is an older property/building and could get some of its original character back with some renovating, and better front desk staff.",could real gem since old property building could get original character back renovate well front desk staff,service,6
+257,218486:79,I would suggest anything in block 5 and up if you want less noise during those hours.,would suggest anything block want less noise hour,service,6
+258,218486:79,The only seating times available are 6pm or 8pm but if you show up after 9:30pm at any of the restaurants they will just seat you.,seat time available 6 pm 8 pm show 30 pm restaurant seat,service,6
+259,218486:79,Brazilian - I would recommend this.,brazilian would recommend,staff,3
+260,218486:79,"Things to bring ,aside from the obvious, - Antibacterial hand soap for your room, spray air freshner, an alarm clock ,or just a clock as they do no have them in any of the rooms,, Cortizone ,for heat rashes,, Benadryl ,to stop the itching from heat rash...lol,, face cloths ,we got these one day and never saw them again,.",thing bring aside obvious antibacterial hand soap room spray air freshner alarm clock clock room cortizone heat rash benadryl stop itching heat rash lol face cloth get one day never saw,quality,1
+261,81394:19,Avoid it.,avoid,service,6
+262,229123:115,Brilliant Hotel - would recommend to anyone.,brilliant hotel would recommend anyone,staff,3
+263,590144:48,The room is big for HK standards and there is a small kitchenette if you need to heat up food in the microwave or cook a meal.,room big hk standard small kitchenette need heat food microwave cook meal,quality,1
+264,231526:72,Take rooms on side or rear.,take room side rear,quality,1
+265,231526:72,For the money I recommend this because of it position and has all the things needed.,money recommend position thing need,staff,3
+266,231526:72,Note pedestrian area of the Rambla means in the evening taxis cannot approach and a walk may be required.,note pedestrian area rambla mean even taxi can not approach walk may require,service,6
+267,119650:38,You have to confirm your reservation,confirm reservation,service,6
+268,119650:38,"So if you make a reservation through internet, you have to call them and confirm it",make reservation internet call confirm,service,6
+269,209422:331,"Quiet for the most part, the room was adequate but could use some minor remodeling.",quiet part room adequate could use minor remodeling,quality,1
+270,149395:423,Room serviceRoom service needs management.,room serviceroom service need management,quality,1
+271,224955:86,"The room itself was small, but no smaller than other large city hotels- if you want room to walk, Id suggest taking the F down to Ferry Plaza.",room small small large city hotel want room walk would suggest take female ferry plaza,quality,1
+272,81114:11,"Our first room had a small kitchenette, the second did not -- here, a micro wave and a small fridge would have been welcome.",first room small kitchenette second micro wave small fridge would welcome,quality,1
+273,81114:11,"We would recommend the Laurel enthusiastically to our friends, unless they need to be downtown.",would recommend laurel enthusiastically friends unless need downtown,staff,3
+274,89101:67,"So, make sure you pay attention",make sure pay attention,service,6
+275,583034:402,The only thing that would be better would be Oceanview.,thing would better would oceanview,service,6
+276,583034:402,If you go over by the to the left of the resort by the shops there is less sea weed.,go leave resort shop less sea weed,service,6
+277,583034:402,If you do want to do any shopping like I said before to the left of the resort there is about 10 little shops.,want shopping like say leave resort 10 little shop,service,6
+278,583034:402,If you dont want anything just say no and they leave you alone.,want anything say leave alone,service,6
+279,583034:402,If they offer you something that is expensive just bargain with them and start walking out of the store and they will bargain with you.,offer something expensive bargain start walk store bargain,service,6
+280,583034:402,If you have any questions just e-mail me: Jillanson@excite.com,question mail jillanson excite com,service,6
+281,218524:1399,make sure you have plenty of $1 bills or 50/100 peso notes the really do deserve their tips.,make sure plenty bill 50 100 peso note really deserve tip,service,6
+282,197447:93,"Should you be driving: Reasonably well located, near to the outer peripheral road , just watch out which exit you take from Place de Nation...,.",drive reasonably locate near out peripheral road watch exit take place de nation,room,5
+283,197447:93,"Parking at the park house Picpus recommended , 10min walk away from hotel.",park park house picpus recommend 10 min walk away hotel,room,5
+284,222957:44,"The hotel itself was interesting since it is round, the staff were polite but the hotel itself is understaffed.",hotel interest since round staff polite hotel understaffed,staff,3
+285,222957:44,The price was ok but after staying- I would expect that the rates should be lowered.,price ok stay would expect rate lower,value,4
+286,222957:44,"Dont let the price fool you- its better to spend a few extra bucks for cleanliness, a walkable neighborhood without someone asking you for money or cigarettes or whatever they may be looking for.",let price fool well spend extra buck cleanliness walkable neighborhood without someone ask money cigarette whatever may look,service,6
+287,191437:74,"I was here many times before and have seen all kind of rooms , make sure, you get an renovated one with Heavenly Bed,.",many time see kind room make sure get renovate one heavenly bed,quality,1
+288,122703:34,"So if you want nightlife, you need to drive to it.",want nightlife need drive,service,6
+289,305371:4,"Business oriented, and highly recommeded for that purpose",business orient highly recommeded purpose,service,6
+290,305371:4,"Abit impersonal though, so if you are looking for a place remembering your name Conrad isnt the first place to look, on most important points it clearly delivers.",abit impersonal though look place remember name conrad first place look important point clearly delivers,service,6
+291,563485:96,But if you are on holiday there are sum negatives.,holiday sum negative,service,6
+292,279809:82,If you are a drinker you will feel like you died and went to heaven; one can drink the day away with many choices and the $76.00 will feel like a bargain.,drinker feel like die go heaven one drink day away many choice 76 00 feel like bargain,service,6
+293,279809:82,"Take our advice, stay at home, save your money if this is where you plan to vacation.",take advice stay home save money plan vacation,service,6
+294,98731:71,I would not recommend this if you want a good nights sleep.,would recommend want good night sleep,staff,3
+295,218486:160,"For meat lovers, I would highly recommend the Brasilian.",meat lover would highly recommend brasilian,staff,3
+296,218486:160,I think so - just keep an open mind and remember that the mentality is very different from what you may be used to.,think keep open mind remember mentality different may use,service,6
+297,228634:81,Much better option is to venture a little into the side streets.,much good option venture little side street,service,6
+298,80920:96,Id suggest staying at this hotel but requesting a room that faces the main street and/or stay on the top floor.,would suggest stay hotel request room face main street stay top floor,value,4
+299,301648:24,If you have time take the morning trek with lunch.,time take morning trek lunch,service,6
+300,100587:155,Dont miss the nearby Palace Kitchen Restaurant and the doughnut shop that are on 5th Avenue.,miss nearby palace kitchen restaurant doughnut shop 5 th avenue,service,6
+301,578371:1048,One thing you must ask for when checking in is a Majestic Passport.,one thing must ask check majestic passport,service,6
+302,618542:152,Do beware that a soda at the bar will cost you $3.56 before tip,beware soda bar cost 56 tip,service,6
+303,218524:2513,If you want to have the most relaxing and wonderful vacation ever come to Secrets,want relax wonderful vacation ever come secret,service,6
+304,239591:61,Hotel is down some side streets 5 minute walk away from the main street of La Rambla with its metro stop of Liceu - so you are within easy reach of the rest of the City via the metro.,hotel side street minute walk away main street laugh lot rambla metro stop liceu within easy reach rest city via metro,staff,3
+305,239591:61,just keep your wits about you and you will have no problems.,keep wit problem,service,6
+306,239591:61,go through the large gate and to the left is a lovely little outside bar area ___�_�___?,go large gate leave lovely little outside bar area,service,6
+307,239591:61,Would advise taking a stroll in the opposite direction to La Rambla and exploring the area were you will stumble across the most wonderful bars and restaurants at much better value.,would advise take stroll opposite direction laugh lot rambla explore area stumble across wonderful bar restaurant much good value,service,6
+308,239591:61,would recommend.,would recommend,staff,3
+309,209583:184,"One word of caution - drink lots of bottled water and watch the food preparation, making sure your food has been cooked all the way.",one word caution drink lot bottle water watch food preparation making sure food cook way,room,5
+310,305813:390,So dont always think that booking early is the best.,always think book early best,service,6
+311,230119:57,"Beware - If paying the buffet breakfast was poor value, Ok for cereals and fruit,poor quality cooked breakfast.",beware pay buffet breakfast poor value ok cereal fruit poor quality cook breakfast,service,6
+312,86966:26,Waikiki is small and you can walk to the beach in a short time.,waikiki small walk beach short time,service,6
+313,93034:89,"However, be prepared that most restaurants and hotels are working at half of their usual staff since Katrina.",however prepared restaurant hotel work half usual staff since katrina,staff,3
+314,93034:89,Made an excellent recommendation or dinner-Tommys...you have to eat there,make excellent recommendation dinner tommys eat,service,6
+315,93034:89,Stay in courtyard room-very quiet.,stay courtyard room quiet,quality,1
+316,93034:89,Go to Spa Aria at tehhOtel MOnteleone...wonderful services there Eat at Muriels and Tommys You wont be disappointed,go spa aria tehhotel monteleone wonderful service eat muriels tommys disappointed,service,6
+317,247957:133,Dont hesitate to stay here unless you are upper class American and only expect the very very best.,hesitate stay unless upper class american expect best,service,6
+318,247957:133,If you expect 5 star service then dont leave your country where you have all the modern facilities.,expect star service leave country modern facility,service,6
+319,247957:133,So bottom line is if you are an average american like me go to this resort.,bottom line average american like go resort,service,6
+320,247957:133,And please ignore the negative comments.,please ignore negative comment,service,6
+321,224877:158,If you can get the rate this is a great stopover and the staff have a lot of nice touches like getting us some water for the cab ride back to the airport.,get rate great stopover staff lot nice touch like get us water cab ride back airport,service,6
+322,94326:290,"Tip-join their members club ,free, via their website before you book, and then you truly get treated royally .i.e upgrade to suites, free calls, free welcome snacks, daily papers etc.",tip join member club free via website book truly get treat royally upgrade suite free call free welcome snack daily paper etc,service,6
+323,86978:216,Ask for room with an odd number thats starts over 13.,ask room odd number start 13,quality,1
+324,599363:58,"If you dont want to stay in a hi tech hotel ,of which there are many in Madrid, and prefer a bit of old Spain - stay here.",want stay hi tech hotel many madrid prefer bit old spain stay,value,4
+325,599363:58,I would recommend this hotel to anyone who likes a bit of style and comfort.,would recommend hotel anyone likes bit style comfort,staff,3
+326,599363:58,Also this is a safer area than say- Sol and the Gran Via-where I saw an attempt at pic-pocketing etc at night time.,also safer area say sol gran via saw attempt pic pocket etc night time,service,6
+327,599363:58,Be careful where you stay in this city.,careful stay city,service,6
+328,99371:36,I highly recommend this hotel for families and/or friends who want to hang out together instead of booking small separate rooms.,highly recommend hotel family friends want hang together instead book small separate room,staff,3
+329,148045:287,"Our room was beautiful and spacious and if you can afford it, I highly recommend the bigger room when staying with children.",room beautiful spacious afford highly recommend big room stay child,quality,1
+330,148045:287,"You can rent innertubes or floats ,about $10 for the day each,.",rent innertubes float 10 day,service,6
+331,148045:287,Dont expect ANYTHING to be included.,expect anything included,service,6
+332,81038:33,"If you do stay there and even if you dont, make sure you have dinner at House of Nanking on Kearny - excellent",stay even dont make sure dinner house nanking kearny excellent,service,6
+333,87052:41,"If you can, upgrade to an Ocean Front Room",upgrade ocean front room,quality,1
+334,218492:510,"The pools were very clean, but you had to get up at 5am to put your towel on a loung chair or you wouldnt get one by the pool or under an umbrella.",pool clean get 5 put towel loung chair would get one pool umbrella,service,6
+335,266322:103,We highly recommend the Clarendon Hotel and Suites.,highly recommend clarendon hotel suite,staff,3
+336,86959:167,Just fill out the card with the time slot you wish your breakfast to arrive at your room.,fill card time slot wish breakfast arrive room,quality,1
+337,86959:167,So if you are wanting a pool I dont suggest booking here.,want pool suggest book,service,6
+338,93593:225,"For the best breakfast tun left as you leave the hotel and walk up to where the small bridge crosses the road at Grand Central Station under this bridge straight across from the station you get the most fantastic breakfast, be early it gets very busy.",best breakfast tun leave leave hotel walk small bridge cross road grand central station bridge straight across station get fantastic breakfast early get busy,staff,3
+339,93593:225,Ps Do the circle line boat tour to see the statue of liberty and the new york skyline it is fantastic.,postscript circle line boat tour see statue liberty new york skyline fantastic,service,6
+340,81169:63,Ill recommend it to everyone heading to the City.,recommend everyone head city,staff,3
+341,81375:83,PARKING: is $43 plus tax per day; watch out,park 43 plus tax per day watch,room,5
+342,208454:565,I highly recommend this hotel especially for couples.,highly recommend hotel especially couple,staff,3
+343,125161:119,There are some cons about this hotel - REMEMBER - if you drive down your parking is NOT FREE,con hotel remember drive parking free,staff,3
+344,125161:119,This is a great hotel if you want to stay somewhere a little different.,great hotel want stay somewhere little different,staff,3
+345,197447:3,"The manager should have been promoted long ago,-I will never again meet such a Man who was so happy to help and rectify any problems- he was wonderful.",manager promote long ago never meet man happy help rectify problem wonderful,service,6
+346,275848:198,This hotel is recommended for budget travelers who do not mind to carry on your own luggages to the room and during check out.,hotel recommend budget traveler mind carry luggage room check,staff,3
+347,77804:216,"I highly recommend the hotel, especially at the priceline rate of $55.00 per night ,+ tax and fees,.",highly recommend hotel especially priceline rate 55 00 per night tax fee,staff,3
+348,77804:216,"If you want an upgrade room, join the Guest Select program, and you will be sent a coupon for a free room upgrade coupon.",want upgrade room join guest select program send coupon free room upgrade coupon,quality,1
+349,77804:216,"after making the reservation, call the hotel and advise you have an upgrade coupon.",make reservation call hotel advise upgrade coupon,staff,3
+350,209382:46,Like others have already done so I would recommend Johns Cafe for breakfast and there is also a great 24 hour deli/store on the corner of 44th and 2nd.,like others already do would recommend john cafe breakfast also great 24 hour deli store corner 44 th 2 nd,staff,3
+351,218524:2611,SAVE YOUR MONEY AND GO ELSEWHERE.,save money go elsewhere,service,6
+352,218524:2611,"AS A MATTER OF FACT, AVOID ALL SECRETS RESORTS, AS THEY ARE BUILDING WITHIN PLAYA DEL CARMEN, AND HAVE OTHER RESORTS.",matter fact avoid secret resort building within playa del carmen resort,service,6
+353,76083:92,"I understand things happen, an apology would have been nice.",understand thing happen apology would nice,service,6
+354,87102:337,My recommendation - spring for the extra money - the full ocean view is well worth it,recommendation spring extra money full ocean view worth,service,6
+355,86951:5,The rooms can be a bit small but I suggest ocean view only since the other rooms face high rises and this defeats the purpose of being in a tropical setting.,room bite small suggest ocean view since room face high rise defeat purpose tropical setting,quality,1
+356,80788:50,"Overall, if cost is a main concern, and you want stay in a basic room for $50 with decent service, in an acceptable neighborhood, then you apparently dont have enough $$$ to stay in a San Francisco hotel, try an upgrade to a local hostel, or stay home.",overall cost main concern want stay basic room 50 decent service acceptable neighborhood apparently enough stay san francisco hotel try upgrade local hostel stay home,value,4
+357,295625:11,"If you are at all sensitive to noise, then it is very important that you get a room in the back of the hotel.",sensitive noise important get room back hotel,quality,1
+358,305486:8,"Perhaps the secret is to book the executive rooms because they certainly are spacious ,you can upgrade on check in,.",perhaps secret book executive room certainly spacious upgrade check,quality,1
+359,607162:23,Room layout good - but would recommend some barrier to stop water from the shower getting the carpet wet,room layout good would recommend barrier stop water shower get carpet wet,quality,1
+360,89158:31,I highly recommend spending the extra money and staying in one of the rooms on the club level.,highly recommend spending extra money stay one room club level,quality,1
+361,231519:26,Our Classic room was a bit small and you might consider upgrading to a larger room if you are staying for very long.,classic room bit small might consider upgrading large room stay long,quality,1
+362,301648:29,"We were in a deluxe room ,dont be fooled, these are the basic rooms, which was really small, compared to the fantastic villa we had in Benoa for less then half the price,",deluxe room dont fool basic room really small compare fantastic villa benoa less half price,quality,1
+363,301648:29,"The shuttle isnt regular enough, and the town of Ubud is fantastic - loads of lovely restaurants, and quiet away from the main streets - I would really recommend staying in the town.",shuttle regular enough town ubud fantastic load lovely restaurant quiet away main street would really recommend stay town,value,4
+364,149397:692,"In conclusion, If you are an American planning on going to the Dominican Republic, Think it twice please.",conclusion american planning go dominican republic think twice please,service,6
+365,231502:38,"If you like quietness, as I do, ask for a room at the backside not fasing the street and higher up.",like quietness ask room backside fasing street high,quality,1
+366,231502:38,"Do not expect a excellent view, but you cant get it all.",expect excellent view can not get,service,6
+367,225873:69,Boston itself is a really easy city to walk around and I would highy recommend it for a short break.,boston really easy city walk around would highy recommend short break,staff,3
+368,582505:15,A must if you have an unlimited expense account since the rooms are very expensive but certainly worthwhile,must unlimited expense account since room expensive certainly worthwhile,quality,1
+369,149395:300,"Walking to the shops, you may want to mentally prepare yourself for the abuse you will take from the local shop owners,aka vultures, that will swoop down upon you to practically drag you into their shops.",walk shop may want mentally prepare abuse take local shop owner aka vulture swoop upon practically drag shop,service,6
+370,228648:4,"Breakfast was quite pricey at 18euros each, but it was a buffet you could eat as much as you like, so if you have a big appetite, perhaps its good value, and if you didnt want to pay 18euros then dont eat it...",breakfast quite pricey 18 euro buffet could eat much like big appetite perhaps good value want pay 18 euro eat,service,6
+371,222985:8,"Stay away from this hotel, if you really need to be downtown stay in a well known chain for a few extra bucks, your peace of mind will be worth it.",stay away hotel really need downtown stay know chain extra buck peace mind worth,value,4
+372,195432:17,Tip: pay in cash and have a Rick Steves book to get discounts.,tip pay cash rick steves book get discount,service,6
+373,195432:17,"The location is amazing, very near the Duomo ,if you are a light sleeper this can be bad for the tolling bells,, just around the corner from the Piazza Republica and down the street from the Uffizi museum and square.",location amaze near duomo light sleeper bad toll bell around corner piazza republica street uffizi museum square,service,6
+374,195432:17,"They offer handicapped accessible rooms which are more spacious and located at the enterior of the hotel ,which I would recommend as those staying with rooms facing the streets often complain of the noise,.",offer handicap accessible room spacious locate enterior hotel would recommend stay room face street often complain noise,quality,1
+375,313884:224,Dont forget to tip...,forget tip,service,6
+376,313884:224,"Tip, tip, tip and you will not be sorry.",tip tip tip sorry,service,6
+377,313884:224,"Although there are many choices, dont go with an expectation that you will be having a fine dining experience.",although many choice go expectation fine dining experience,service,6
+378,313884:224,"Drinks: Unless you like really sweet drinks, you might want to consider bringing your own mixers..",drink unless like really sweet drink might want consider bring mixer,service,6
+379,313884:224,"There really is no good wine choice and if you are a wine drinker, bring your own.",really good wine choice wine drinker bring,service,6
+380,313884:224,"The beer is okay when cold ,dont forget the bubba keg, and there is always a very happy and gracious bartender to get you whatever you want.",beer okay cold dont forget bubba keg always happy gracious bartender get whatever want,service,6
+381,237566:1,Wonderful hotel but bring your ear plugs,wonderful hotel bring ear plug,staff,3
+382,72586:43,"If you are looking to do downtown Seattle as a tourist you cannot do much better, in my opinion, than the Best Western Executive Inn.",look downtown seattle tourist can not much good opinion best western executive inn,room,5
+383,81251:54,So I would recommend that if you reserve a room here and cancel SAVE YOUR CANCELATION NUMBER,would recommend reserve room cancel save cancelation number,quality,1
+384,119658:331,Weve stayed in San Francisco before and I would recommend the Commodore Hotel or another Experience Rewards hotel in the SF area.,stay san francisco would recommend commodore hotel another experience reward hotel sf area,staff,3
+385,279742:57,Note that the hotel offers great packages on its website - the best way to go.,note hotel offer great package website best way go,staff,3
+386,86978:460,"Also, if you need services find a good front desk clerk, they helped us find a rental car when we were told none were available at all locations we called.",also need service find good front desk clerk help us find rental car tell none available location call,service,6
+387,607162:50,"I was happy to get it, but a working minibar would have been preferable.",happy get work minibar would preferable,service,6
+388,305813:196,"The mall had many restaurants, including a pretty good dim sum ,recommended,.",mall many restaurant include pretty good dim sum recommend,staff,3
+389,305813:196,"The dessert place was very good as well ,also recommended,.",dessert place good also recommend,staff,3
+390,100570:94,"Its also a great location if you love shopping because Nordstrom and Macys are right up the street as well as 2 big malls, Westlake Center and Pacific Place.",also great location love shop nordstrom macys right street big mall westlake center pacific place,service,6
+391,224221:191,"Bigger rooms , bar at ground floor, bigger reception, but then it wouldnt be the hotel that it is .",big room bar ground floor big reception would hotel,quality,1
+392,284987:71,"If you need to get out and roam, this is not the resort for you, as you are miles away from anything, however there is so much to do right there at the resort I cant imagine why you would need to go anywhere.",need get roam resort mile away anything however much right resort can not imagine would need go anywhere,service,6
+393,284987:71,"If you want to rent a car, rent it at the airport, not the resort",want rent car rent airport resort,service,6
+394,284987:71,"They wanted over $300 for 4 days, and we ended up renting at Enterprise for about $125 insurance included , after driving in Puerto Rico I highly recommend taking there insurance,.",want 300 day end rent enterprise 125 insurance include drive puerto rico highly recommend take insurance,staff,3
+395,284987:71,Through the resort you can contact a guy named Angel for some of the best scuba diving I have ever done in my life.,resort contact guy name angel best scuba dive ever do life,service,6
+396,223122:85,"The hotel decor is very tasteful and trendy, and while the wallpaper may need a tiny bit of work here and there, as has been mentioned before, its really not a big deal.",hotel decor tasteful trendy wallpaper may need tiny bit work mention really big deal,staff,3
+397,94399:77,"Rooms are clean and nice, but bear in mind you just pay for lodging, service does not seem to be included.",room clean nice bear mind pay lodge service seem include,quality,1
+398,80999:47,Both places are highly recommended.,place highly recommend,staff,3
+399,87016:942,If you go to Oahu whereever you stay you HAVE to eat at Aarons in the Ala Moana hotel.,go oahu whereever stay eat aaron ala moana hotel,staff,3
+400,223408:67,"Crown Plaza is fine, but beware of parking prices",crown plaza fine beware park price,room,5
+401,223408:67,But make sure to ask for a high floor if you dont like the noise.,make sure ask high floor like noise,service,6
+402,223408:67,"Also, you must eat at Landrys.",also must eat landrys,service,6
+403,224214:87,Do not take the Raymond Hudd suite unless you take both of them,take raymond hudd suite unless take,service,6
+404,224214:87,"But for a true represenation, go to the five star alliance website.",true represenation go five star alliance website,service,6
+405,596760:8,"However, if you plan to take an afternoon nap, bring ear plugs.",however plan take afternoon nap bring ear plug,service,6
+406,82114:19,"To get a cheap rate, look around online for the lowest rate, then call the motel directly.",get cheap rate look around online low rate call motel directly,service,6
+407,82114:19,La Luna could dampen this noise significantly if they were to seal the door so that it fits better in the door frame.,laugh lot luna could dampen noise significantly seal door fit well door frame,service,6
+408,82114:19,I recommend not staying in room X01-X12 where X is the floor number.,recommend stay room x01 x12 floor number,quality,1
+409,82114:19,Ask for room not facing street.,ask room face street,quality,1
+410,82114:19,"Recommend walking two blocks to Judys cafe on Chestnut St. for breakfast ,they only take cash, but good portions of good food,.",recommend walk two block judys cafe chestnut st breakfast take cash good portion good food,staff,3
+411,120848:14,"If you are looking for a fancy, corporate Marriot or Sheraton, this is not the place for you.",look fancy corporate marriot sheraton place,service,6
+412,120848:14,"But if you prefer to stay in a cozy and comfortable bed and breakfast type of hotel, the Avenue Garden is the perfect fit.",prefer stay cozy comfortable bed breakfast type hotel avenue garden perfect fit,staff,3
+413,252350:13,Just remember to GO EARLY.,remember go early,service,6
+414,252350:13,They either need to rewrite the policy on the amount of time a cart can be kept by guests or put DVD players in all rooms.,either need rewrite policy amount time cart keep guest put dvd player room,quality,1
+415,578371:551,"For both the beach and the pool, if you want a chair under a palapa to cover yourself from the sun, I suggest you get their early ,between 8 and 8:30, or before you have breakfast, take your towels and leave them on the chairs you want.",beach pool want chair palapa cover sun suggest get early 30 breakfast take towel leave chair want,location,2
+416,578371:551,Please remember to tip the staff.,please remember tip staff,service,6
+417,218524:2383,"If you go to the Mexican, dont leave without savoring mega amounts of a local topping called pico de gauaio.",go mexican leave without savor mega amount local topping call pico de gauaio,service,6
+418,218524:2383,"The cave itself is gorgeous but take a swimsuit and change of clothes, you will be wet and muddy upon completion of the tour and a video of your adventure is available for a nominal fee on VHS, CD or DVD.",cave gorgeous take swimsuit change clothes wet muddy upon completion tour video adventure available nominal fee vhs cd dvd,service,6
+419,224168:162,Must see Getty Centre and the Grove shopping road.,must see getty centre grove shop road,service,6
+420,224168:162,Tip choose a floor above the tenth floor for great views.,tip choose floor tenth floor great view,service,6
+421,611114:114,"Other than the frozen drinks, I would not reccommend a mixed drink here.",frozen drink would reccommend mixed drink,service,6
+422,85147:323,Dont open curtains as you will only view filthy windows.,open curtain view filthy window,service,6
+423,583034:108,Alcohol was top shelf - try a vodka lime juice,alcohol top shelf try vodka lime juice,service,6
+424,646326:7,"Finally, if you stay here, be very careful when going down into the metro and all of the time you stay on the metro.",finally stay careful go metro time stay metro,value,4
+425,646326:7,"Put your valuables in a zippered pouch inside your clothing, dont carry a backpack, keep an eye on anything you put down beside you in a restaurant, walk in caravans, dont let people surround you on the metro: make sure you are near an exit door.",put valuable zipper pouch inside clothing carry backpack keep eye anything put beside restaurant walk caravan let people surround metro make sure near exit door,service,6
+426,646326:7,"Be aware of your surroundings at all times, and you wont be a victim.",aware surroundings time victim,service,6
+427,265628:343,"If you go on this trip bring items from your dollar stores ,pencils, markers, coloring books, for gifts for these children and watch their reactions.",go trip bring item dollar store pencil marker color book gifts child watch reaction,room,5
+428,325490:32,"I recommend adding the breakfast to the room charge, the buffet is varied and an excellent value.",recommend add breakfast room charge buffet vary excellent value,quality,1
+429,109454:31,"For the location, you are much better off at the Hyatt Regency.",location much well hyatt regency,service,6
+430,114026:59,I would highly recommend an upgrade for that price.,would highly recommend upgrade price,staff,3
+431,114026:59,"For a good breakfast right on the beach check out Dukes ,less than a 5 minute walk from the hotel,.",good breakfast right beach check duke less minute walk hotel,staff,3
+432,114026:59,"If youre in the mood to splurge, the Royal Hawaiian ,pink hotel, has a great breakfast but it is pricey.",mood splurge royal hawaiian pink hotel great breakfast pricey,staff,3
+433,114026:59,"If youre looking for a reasonably priced nice hotel steps away from the beach, I would recommend staying at the Waikiki Parc.",look reasonably price nice hotel step away beach would recommend stay waikiki parc,value,4
+434,80793:145,"Overall, I would highly recommend this hotel.",overall would highly recommend hotel,staff,3
+435,149399:522,"Remember to bring comfy walking shoes, the Melia Caribe Tropical is huge",remember bring comfy walking shoe melia caribe tropical huge,service,6
+436,93335:32,"I highly recommend this hotel to anyone wishing to avoid the giant impersonal hotels, as you will have all the amenities and none of the hassle.",highly recommend hotel anyone wish avoid giant impersonal hotel amenity none hassle,staff,3
+437,93467:7,If I had to recommend only one hotel in would be the Affinia Gardens.,recommend one hotel would affinia garden,staff,3
+438,296915:84,"If you are going to Barcelona, this is the place to stay.",go barcelona place stay,service,6
+439,1049387:12,I think guests should get to park for free.,think guest get park free,room,5
+440,275848:117,Avoid the first floor and you will be fine.,avoid first floor fine,service,6
+441,305861:6,Bring a Lan cable for your laptop in the room.,bring lan cable laptop room,quality,1
+442,305861:6,"Tips: When you take the tram going back to the hotel, make sure it does NOT say Happy Valley or Causeway Bay.",tip take tram go back hotel make sure say happy valley causeway bay,staff,3
+443,305861:6,Make sure to go to Aberdeen and take a sanpan ride.,make sure go aberdeen take sanpan ride,service,6
+444,230104:5,"Its not a luxury hotel but if you are looking for something a little outside the city, its a good choice and a good price for Amsterdam.",luxury hotel look something little outside city good choice good price amsterdam,staff,3
+445,478252:955,Beware as in the trip info it says that you can go snorkling but no gear is provided so if you want to snorkle take you own gear.,beware trip information say go snorkling gear provide want snorkle take gear,service,6
+446,478252:955,"you dont need a blow dryer one is provided, if you want to buy rum and cigars either get them at the Hotel or go to the factory.",need blow dryer one provide want buy rum cigar either get hotel go factory,staff,3
